@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1637772942 source:c:\users\darya\desktop\long_count\addons.cpp
+	"long_count.h"
+
+1637778395 c:\users\darya\desktop\long_count\long_count.h
+	<iostream>
+	<string>
+
+1637768279 source:c:\users\darya\desktop\long_count\sum.cpp
+	"long_count.h"
+
+1637778370 source:c:\users\darya\desktop\long_count\setting_functions.cpp
+	"long_count.h"
+
+1637777152 source:c:\users\darya\desktop\long_count\main.cpp
+	<iostream>
+	"long_count.h"
+
+1637779551 source:c:\users\darya\desktop\long_count\mult.cpp
+	"long_count.h"
+
+1637773839 source:c:\users\darya\desktop\long_count\sub.cpp
+	"long_count.h"
+
+1637846872 source:c:\users\darya\documents\github\wasp\long_count_new\addons.cpp
+	"long_count.h"
+
+1637848785 c:\users\darya\documents\github\wasp\long_count_new\long_count.h
+	<iostream>
+	<string>
+
+1638367007 source:c:\users\darya\documents\github\wasp\long_count_new\mult.cpp
+	"long_count.h"
+
+1638367241 source:c:\users\darya\documents\github\wasp\long_count_new\sub.cpp
+	"long_count.h"
+
+1638367241 source:c:\users\darya\documents\github\wasp\long_count_new\sum.cpp
+	"long_count.h"
+
+1637850920 source:c:\users\darya\documents\github\wasp\long_count_new\baron.cpp
+	"long_count.h"
+
+1638367961 source:c:\users\darya\documents\github\wasp\long_count_new\setting_functions.cpp
+	"long_count.h"
+
+1638367686 source:c:\users\darya\documents\github\wasp\long_count_new\main.cpp
+	<iostream>
+	"long_count.h"
+
+1638380817 source:c:\users\uchenik\desktop\long_count_new-main\addons.cpp
+	"long_count.h"
+
+1638433847 c:\users\uchenik\desktop\long_count_new-main\long_count.h
+	<iostream>
+	<string>
+
+1638380817 source:c:\users\uchenik\desktop\long_count_new-main\baron.cpp
+	"long_count.h"
+
+1638434504 source:c:\users\uchenik\desktop\long_count_new-main\main.cpp
+	<iostream>
+	"long_count.h"
+
+1638433953 source:c:\users\uchenik\desktop\long_count_new-main\mult.cpp
+	"long_count.h"
+
+1638434528 source:c:\users\uchenik\desktop\long_count_new-main\setting_functions.cpp
+	"long_count.h"
+
+1638380817 source:c:\users\uchenik\desktop\long_count_new-main\sub.cpp
+	"long_count.h"
+
+1638380817 source:c:\users\uchenik\desktop\long_count_new-main\sum.cpp
+	"long_count.h"
+
+1638433845 source:c:\users\uchenik\desktop\long_count_new-main\hello.cpp
+	"long_count.h"
+
+1638434620 source:c:\users\uchenik\desktop\calc_lesson-main\addons.cpp
+	"long_count.h"
+
+1638434620 c:\users\uchenik\desktop\calc_lesson-main\long_count.h
+	<iostream>
+	<string>
+
+1638434620 source:c:\users\uchenik\desktop\calc_lesson-main\baron.cpp
+	"long_count.h"
+
+1638437572 source:c:\users\uchenik\desktop\calc_lesson-main\main.cpp
+	<iostream>
+	"long_count.h"
+
+1638436889 source:c:\users\uchenik\desktop\calc_lesson-main\mult.cpp
+	"long_count.h"
+
+1638436889 source:c:\users\uchenik\desktop\calc_lesson-main\sub.cpp
+	"long_count.h"
+
+1638436889 source:c:\users\uchenik\desktop\calc_lesson-main\sum.cpp
+	"long_count.h"
+
+1638437598 source:c:\users\uchenik\desktop\calc_lesson-main\hello.cpp
+	"long_count.h"
+
+1638437989 source:c:\users\uchenik\desktop\calc_lesson-main\setting_functions.cpp
+	"long_count.h"
+
