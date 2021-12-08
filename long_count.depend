@@ -106,3 +106,32 @@
 1638437989 source:c:\users\uchenik\desktop\calc_lesson-main\setting_functions.cpp
 	"long_count.h"
 
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\addons.cpp
+	"long_count.h"
+
+1638971956 c:\users\darya\documents\github\wasp\calc_long\long_count.h
+	<iostream>
+	<string>
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\baron.cpp
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\hello.cpp
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\main.cpp
+	<iostream>
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\mult.cpp
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\setting_functions.cpp
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\sub.cpp
+	"long_count.h"
+
+1638971956 source:c:\users\darya\documents\github\wasp\calc_long\sum.cpp
+	"long_count.h"
+

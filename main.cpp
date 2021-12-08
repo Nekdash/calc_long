@@ -24,6 +24,7 @@ int main()
         answer = baron(first, second, operation);
         /// print out the answer;
         cout << "ANSWER: " << rm_zeros(answer) << endl;
+
         cout << endl;
         cout << endl;
 
