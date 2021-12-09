@@ -1,34 +1,16 @@
 #include "long_count.h"
 
 bool valid (string expression){
-    //return true;
+    
     for( long long i = 0; expression[i] != '\0'; i++){
+        if (expression[i] >= 'a' && expression[i] <= 'z'){
+            return false;
+        }else if(expression[i] >= 'A' && expression[i] <= 'Z'){return false;}        
         if(expression[i] > '9' && expression[i] < '0' && expression[i] != '(' && expression[i] != ')'  && expression[i] != '\0' && expression[i] != ' ' && expression[i] != '+' && expression[i] != '-' && expression[i] != '*'){
             return false;
         }
     }
     return true;
-
-
-    /*return true;
-    bool operation = false, no_letters = true, two_nums = false, first = false;
-    char ch;
-    for ( long long i = 0; expression[i] != '\0'; i++){
-        ch = expression[i];
-        if ( ch  == '+' || ch == '-' || ch == '*' || ch == '/'){
-            operation = true;
-        }
-        else if ((ch > '9' || ch < '0') && ch != ' ' && ch != '\0' ){
-            no_letters = false;
-        }
-        else if (ch < '9' && ch > '0'){
-            if (operation)
-                two_nums = true;
-            else
-                first = true;
-        }
-    }
-    return operation && no_letters && two_nums && first;*/
 }
 
 
